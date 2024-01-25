@@ -1,7 +1,7 @@
 let myName = "Basirah";
 let isMarried = true;
 let emptyVariable = null;
-let undefinedVariable;
+let undefinedVariable;gi
 console.log(myName,isMarried,emptyVariable,undefinedVariable);
 
 //variables declaration without values;
